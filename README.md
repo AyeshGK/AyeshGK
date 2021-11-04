@@ -1,7 +1,7 @@
 Hi there 👋
 
 I'm Ayesh Vininda, 
-🌱 I’m currently learning Computer Science & Engineering University of Moratuwa.
+🌱 I’m currently learning at department of Computer Science & Engineering at University of Moratuwa.
 
 - 👀 I’m interested in Machine Learning, Artificial Intellingence and Computer Vision ...
 - ...
