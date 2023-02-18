@@ -1,9 +1,10 @@
-Hi there 👋
+Welcome to my GitHub Readme!
 
-I'm Ayesh Vininda, 
-🌱 I’m currently learning at department of Computer Science & Engineering at University of Moratuwa.
+Greetings and salutations 👋, I'm Ayesh Vininda, a curious student currently pursuing studies in the department of Computer Science & Engineering at the esteemed University of Moratuwa.
 
-- 👀 I’m interested in Machine Learning, Artificial Intellingence and Computer Vision 
+My mind is constantly buzzing with ideas and concepts, particularly those in the fields of Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision & web development. I'm always on the lookout for new and exciting projects to work on, and I'm eager to learn from and collaborate with fellow enthusiasts.
+
+So come along and join me on my journey of discovery and exploration. Let's build some amazing things together! 🌱
 
 
 
