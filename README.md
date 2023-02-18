@@ -10,6 +10,6 @@ So come along and join me on my journey of discovery and exploration. Let's buil
 
 
 
-![Image of Yaktocat](https://source.unsplash.com/eo3Xr2yhYVw/1920x1280.png)
+![Image of Yaktocat](https://source.unsplash.com/ioyEITUD2G8/1920x1280.png)
 
 
